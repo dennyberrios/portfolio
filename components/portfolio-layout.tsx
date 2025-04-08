@@ -155,7 +155,7 @@ export default function PortfolioLayout({ children }: PortfolioLayoutProps) {
             </Avatar>
             <div className="flex flex-1 flex-col">
               <span className="text-sm font-medium">Alex Developer</span>
-              <span className="text-xs text-muted-foreground">alex@exemplo.com</span>
+              <span className="text-xs text-muted-foreground">danny@exemplo.com</span>
             </div>
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
